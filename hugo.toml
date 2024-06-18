@@ -1,0 +1,4 @@
+baseURL = 'https://silicon-fixation.com/'
+languageCode = 'en-gb'
+title = 'Silicon Fixation Blog'
+theme = 'beautifulhugo'
