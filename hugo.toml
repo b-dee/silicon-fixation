@@ -1,4 +1,28 @@
 baseURL = 'https://silicon-fixation.com/'
+
 languageCode = 'en-gb'
-title = 'Silicon Fixation Blog'
+DefaultContentLanguage = "en"
+
+title = 'Silicon Fixation'
+
 theme = 'beautifulhugo'
+
+[Params]
+  homeTitle = "Silicon Fixation"
+  subtitle = "The mostly-coherent thoughts of yet another caffeinated software developer."
+  mainSections = ["post","posts"]
+  logo = "img/E1C1_color.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+  readingTime = true
+  wordCount = false
+  useHLJS = true
+  socialShare = true
+  showRelatedPosts = true
+  hideAuthor = true
+
+[Author]
+  name = "Silicon Fixation"

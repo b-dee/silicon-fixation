@@ -1,2 +1,5 @@
+# macOS fs stuff
+.DS_Store
+
 # Hugo caching/locking
 .hugo_build.lock
