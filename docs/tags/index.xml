@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Silicon Fixation</title>
-    <link>https://silicon-fixation.com/tags/</link>
+    <link>https://b-dee.github.io/silicon-fixation/tags/</link>
     <description>Recent content in Tags on Silicon Fixation</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://silicon-fixation.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://b-dee.github.io/silicon-fixation/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bytes</title>
-      <link>https://silicon-fixation.com/tags/bytes/</link>
+      <link>https://b-dee.github.io/silicon-fixation/tags/bytes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://silicon-fixation.com/tags/bytes/</guid>
+      <guid>https://b-dee.github.io/silicon-fixation/tags/bytes/</guid>
       <description></description>
     </item>
     <item>
       <title>Streams</title>
-      <link>https://silicon-fixation.com/tags/streams/</link>
+      <link>https://b-dee.github.io/silicon-fixation/tags/streams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://silicon-fixation.com/tags/streams/</guid>
+      <guid>https://b-dee.github.io/silicon-fixation/tags/streams/</guid>
       <description></description>
     </item>
   </channel>
